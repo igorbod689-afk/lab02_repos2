@@ -1,0 +1,5 @@
+﻿  3.2.cpp
+D:\Ігор Бодак\3.2\3.2.cpp(21,5): error C2084: function 'int main(void)' already has a body
+      D:\Ігор Бодак\3.2\3.2.cpp(4,5):
+      see previous definition of 'main'
+  
